@@ -1,1 +1,10 @@
-
+{
+  "users": [
+    {
+      "user_key": "test",
+      "discord_id": "1106521964736151554",
+      "identifier": "",
+      "note": ""
+    }
+  ]
+}
