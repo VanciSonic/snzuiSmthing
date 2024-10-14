@@ -1,1 +1,1 @@
-game.ReplicatedStorage['__ServerBrowser']:InvokeServer('teleport','b5d59805-1fc2-4a61-8edb-2cc893f774d8')
+game.ReplicatedStorage['__ServerBrowser']:InvokeServer('teleport','afabe349-32cc-40b6-8abb-ff944082cae8')
